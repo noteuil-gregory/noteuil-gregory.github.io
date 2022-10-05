@@ -1,0 +1,45 @@
+body {
+       background-color: rgb(163, 168, 194);
+	   text-align: center;
+	             
+}
+h1 {
+	font-size: 3em;
+	
+	padding: 2%;
+	display: flex;
+	justify-content: center;
+}
+h2 {
+	padding: 1%;
+	font-size: 2em;
+	font-weight: bold;
+
+}
+h3 {
+	padding: 0.3%;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+.intitule {
+	font-weight: bold;
+	display: flex;
+	justify-content: center;
+	padding: 1%;
+}
+#photo {
+	
+ 	display: flex;
+	justify-content: center;
+}
+
+.resume {
+	width: 100%;
+
+}
+.competence {
+	padding: 1%;
+}
+.exp-pro {
+	padding: 1%;
+}
